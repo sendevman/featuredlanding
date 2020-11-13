@@ -1,0 +1,28 @@
+@mixin font-Josefinsans-Light {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 300;
+}
+@mixin font-Josefinsans-Regular {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+}
+@mixin font-Josefinsans-Medium {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 500;
+}
+@mixin font-Josefinsans-Semibold {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 600;
+}
+@mixin font-Josefinsans-Bold {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 700;
+}
+@mixin font-Opensans-Regular {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+@mixin font-Opensans-Semibold {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+}
